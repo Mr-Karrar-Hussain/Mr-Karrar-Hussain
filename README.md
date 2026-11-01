@@ -1,16 +1,65 @@
 ## Hi there 👋
 
-<!--
-**Mr-Karrar-Hussain/Mr-Karrar-Hussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm Karrar Hussain, a programming enthusiast passionate about C++, logical thinking, and problem-solving. I believe in learning concepts deeply, practicing consistently, and improving through real coding challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 💡 Focused on **C++ Programming**
+- 🧠 Practicing programming logic and problem-solving
+- 📚 Learning Object-Oriented Programming (OOP)
+- 🔍 Exploring Data Structures and Algorithms
+- 💻 Solving coding challenges on LeetCode
+- 🎯 Working towards becoming a strong competitive programmer
+- 🚀 Always curious to learn something new
+
+---
+
+## 🛠️ Technical Skills & Learning
+
+| Category | Technologies / Concepts |
+|---|---|
+| Programming Language | C++ |
+| Core Concepts | Functions, Arrays, Pointers, Structures |
+| Object-Oriented Programming | Classes, Objects, Constructors, Copying, Operator Overloading |
+| Data Structures | Arrays, Vectors |
+| Algorithms | Sorting, Searching, Frequency Arrays, Prefix Sums |
+| Memory Management | Dynamic Memory Allocation |
+| Tools | Git, GitHub, VS Code |
+
+---
+
+## 📂 My Projects & Practice
+
+### 🔹 C++ Practice
+My collection of C++ programs and fundamental programming concepts.
+
+[Explore C++ Practice Repository](https://github.com/Mr-Karrar-Hussain/Cpp-Practice)
+
+### 🔹 LeetCode Solutions
+My journey of solving coding problems and improving problem-solving skills.
+
+[Explore LeetCode Solutions](https://github.com/Mr-Karrar-Hussain/LeetCode-Solutions)
+
+---
+-
+
+## 🎯 My Goal
+
+To become a skilled programmer with strong problem-solving abilities, a deep understanding of computer science fundamentals, and the ability to solve complex programming challenges.
+
+---
+
+## 🤝 Connect With Me
+
+-  GitHub: [Mr-Karrar-Hussain](https://github.com/Mr-Karrar-Hussain)
+
+### 💬 Developer Mindset
+
+> "First understand the problem. Then understand the logic. Finally, write the code."
+
+⭐ Thanks for visiting my profile!
+
